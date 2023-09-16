@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/KambagouniPrashanth/portfolio/static/css/main.00759b38.css",
-    "main.js": "/KambagouniPrashanth/portfolio/static/js/main.019296ef.js",
-    "static/js/787.1ed0c42c.chunk.js": "/KambagouniPrashanth/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "/KambagouniPrashanth/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/KambagouniPrashanth/portfolio/index.html",
-    "main.00759b38.css.map": "/KambagouniPrashanth/portfolio/static/css/main.00759b38.css.map",
-    "main.019296ef.js.map": "/KambagouniPrashanth/portfolio/static/js/main.019296ef.js.map",
-    "787.1ed0c42c.chunk.js.map": "/KambagouniPrashanth/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/UseState-States/static/css/main.073c9b0a.css",
+    "main.js": "/UseState-States/static/js/main.ec095aa0.js",
+    "static/js/787.633e46a6.chunk.js": "/UseState-States/static/js/787.633e46a6.chunk.js",
+    "index.html": "/UseState-States/index.html",
+    "main.073c9b0a.css.map": "/UseState-States/static/css/main.073c9b0a.css.map",
+    "main.ec095aa0.js.map": "/UseState-States/static/js/main.ec095aa0.js.map",
+    "787.633e46a6.chunk.js.map": "/UseState-States/static/js/787.633e46a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00759b38.css",
-    "static/js/main.019296ef.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ec095aa0.js"
   ]
 }
