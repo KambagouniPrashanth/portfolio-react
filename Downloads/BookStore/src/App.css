@@ -1,0 +1,47 @@
+.books{
+  display: inline-block;
+  
+ 
+}
+.books img{
+  width: 13rem;
+  height: 13rem;
+  margin: 2rem;
+}
+.bookinfo{
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  gap:3rem;
+  color: white;
+  border: 2px solid green;
+  background-color:  #71C5F461;
+  margin-top: 2rem;
+
+}
+.details{
+  width: 50%;
+}
+.inputdata{
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-around;
+}
+input{
+  width: 50rem;
+  background-color: transparent;
+  color: white;
+  font-size: 1.2rem;
+
+}
+button{
+  width: 13rem;
+  font-size: 1.2rem;
+  background-color: transparent;
+  color: white;
+  border: 2px solid whitesmoke;
+}
+
+body{
+  background-color: black;
+}
